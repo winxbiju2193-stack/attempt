@@ -1,4 +1,4 @@
 Nome
 Nascimento
-document.body.style.backgroundColor="rgb(255,87,51)";
+document.body.style.backgroundColor="rgb(39, 77, 83)";
 idade
