@@ -1,1 +1,1 @@
-Isso é apenas um teste.
+Isso é apenas um teste
